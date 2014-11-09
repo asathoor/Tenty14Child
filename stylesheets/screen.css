@@ -1,0 +1,38 @@
+/* COMPASS CSS - modify Twenty Fourteen 
+*
+* The theme seems unfinished in the original form.
+* So I center the design, and frame via a contrasting background.
+* The fonts are changed into something looking like medieval mss.
+*/
+@import url(http://fonts.googleapis.com/css?family=Leckerli+One);
+@import url(http://fonts.googleapis.com/css?family=Leckerli+One|Josefin+Sans);
+/* line 12, ../sass/screen.scss */
+#page {
+  position: relative;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* line 30, ../sass/screen.scss */
+.entry-title {
+  color: red;
+  font-family: "Josefin Sans", Verdana, sans-serif;
+}
+/* line 33, ../sass/screen.scss */
+.entry-title a {
+  font-family: "Josefin Sans", Verdana, sans-serif;
+  color: red;
+}
+
+/* line 39, ../sass/screen.scss */
+p {
+  font-family: "Josefin Sans", Verdana, sans-serif;
+  text-align: justify;
+}
+
+/* line 44, ../sass/screen.scss */
+p::first-letter {
+  color: red;
+  font-weight: bolder;
+  font-size: 120%;
+}

@@ -1,0 +1,19 @@
+/*
+ Theme Name:   Twenty Fourteen Child
+ Theme URI:    http://multimusen.dk
+ Description:  Twenty Fourteen Child Theme
+ Author:       Per Thykjaer Jensen
+ Author URI:   http://multimusen.dk
+ Template:     twentyfourteen
+ Version:      1.0.0
+ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+ Text Domain:  twenty-fourteen-child
+*/
+
+
+/* =Theme customization starts here
+-------------------------------------------------------------- */
+
+/* enqueue css  */
+
+// don't inport use enqueue
